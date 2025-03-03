@@ -37,6 +37,7 @@ Air pollution in New York City poses significant health risks, with disparities 
   
 ## Project Poster
 This poster summarizes the project's methodology, key insights, and conclusions, visually representing data interactions, model predictions, and health impact analyses.
+![Project Poster Description](path/to/your/image.png)
 
 ## Conclusion
 The study highlights significant air quality issues and health implications in NYC, underscoring the need for targeted interventions to mitigate pollution and protect public health, especially in vulnerable communities.
